@@ -1,0 +1,36 @@
+name: Fetch GitHub Trending Daily
+
+on:
+  schedule:
+    # 每天早上 8 点（UTC，对应北京时间 16 点）
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-trending:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Fetch GitHub Trending
+        run: |
+          python scripts/fetch_trending.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add trending.md
+          git diff --cached --quiet || git commit -m "chore: update GitHub trending"
+          git push
