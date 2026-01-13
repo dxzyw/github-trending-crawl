@@ -2,9 +2,11 @@ name: Fetch GitHub Trending Daily
 
 on:
   schedule:
-    # 每天早上 8 点（UTC，对应北京时间 16 点）
     - cron: "0 8 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 👈 关键就是这一行
 
 jobs:
   fetch-trending:
