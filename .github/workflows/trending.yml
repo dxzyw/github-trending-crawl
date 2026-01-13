@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add trending/
+          git add trending-data/
           git diff --cached --quiet || git commit -m "chore: update GitHub trending"
           git push
 
