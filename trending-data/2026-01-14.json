@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-01-14",
+    "generated_at": "2026-01-14T08:28:47Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "obra/superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": "21,155",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "icloud-photos-downloader/icloud_photos_downloader",
+      "owner": "icloud-photos-downloader",
+      "name": "icloud_photos_downloader",
+      "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "description": "A command-line tool to download photos from iCloud",
+      "language": "Python",
+      "stars": "11,112",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "blakeblackshear/frigate",
+      "owner": "blakeblackshear",
+      "name": "frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "language": "TypeScript",
+      "stars": "29,089",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "twitter/the-algorithm",
+      "owner": "twitter",
+      "name": "the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": "69,689",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "home-assistant/home-assistant.io",
+      "owner": "home-assistant",
+      "name": "home-assistant.io",
+      "url": "https://github.com/home-assistant/home-assistant.io",
+      "description": "📘 Home Assistant User documentation",
+      "language": "HTML",
+      "stars": "8,391",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "chidiwilliams/buzz",
+      "owner": "chidiwilliams",
+      "name": "buzz",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "language": "Python",
+      "stars": "16,917",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "adam-maj/tiny-gpu",
+      "owner": "adam-maj",
+      "name": "tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "stars": "9,986",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "Free-TV/IPTV",
+      "owner": "Free-TV",
+      "name": "IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": "10,741",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "onlook-dev/onlook",
+      "owner": "onlook-dev",
+      "name": "onlook",
+      "url": "https://github.com/onlook-dev/onlook",
+      "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+      "language": "TypeScript",
+      "stars": "24,233",
+      "raw": {
+        "trending_rank": 9
+      }
+    }
+  ]
+}
