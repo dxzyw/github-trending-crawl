@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-01-17",
+    "generated_at": "2026-01-17T08:24:17Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "obra/superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "26,525",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "Gentleman-Programming/Gentleman.Dots",
+      "owner": "Gentleman-Programming",
+      "name": "Gentleman.Dots",
+      "url": "https://github.com/Gentleman-Programming/Gentleman.Dots",
+      "description": "My personal configuration for LazyVim !",
+      "language": "Shell",
+      "stars": "1,199",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "google/langextract",
+      "owner": "google",
+      "name": "langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": "21,310",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "cjpais/Handy",
+      "owner": "cjpais",
+      "name": "Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "TypeScript",
+      "stars": "11,955",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "puckeditor/puck",
+      "owner": "puckeditor",
+      "name": "puck",
+      "url": "https://github.com/puckeditor/puck",
+      "description": "The visual editor for React",
+      "language": "TypeScript",
+      "stars": "11,143",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "ultralytics/ultralytics",
+      "owner": "ultralytics",
+      "name": "ultralytics",
+      "url": "https://github.com/ultralytics/ultralytics",
+      "description": "Ultralytics YOLO 🚀",
+      "language": "Python",
+      "stars": "51,834",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "eigent-ai/eigent",
+      "owner": "eigent-ai",
+      "name": "eigent",
+      "url": "https://github.com/eigent-ai/eigent",
+      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+      "language": "TypeScript",
+      "stars": "7,798",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "iOfficeAI/AionUi",
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": "4,461",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "agentsmd/agents.md",
+      "owner": "agentsmd",
+      "name": "agents.md",
+      "url": "https://github.com/agentsmd/agents.md",
+      "description": "AGENTS.md — a simple, open format for guiding coding agents",
+      "language": "TypeScript",
+      "stars": "15,444",
+      "raw": {
+        "trending_rank": 9
+      }
+    }
+  ]
+}
