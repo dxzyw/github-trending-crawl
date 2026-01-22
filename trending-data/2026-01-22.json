@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-01-22",
+    "generated_at": "2026-01-22T08:30:21Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "tambo-ai/tambo",
+      "owner": "tambo-ai",
+      "name": "tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "stars": "3,535",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "EveryInc/compound-engineering-plugin",
+      "owner": "EveryInc",
+      "name": "compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "TypeScript",
+      "stars": "5,894",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "twitter/the-algorithm",
+      "owner": "twitter",
+      "name": "the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": "71,549",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "xai-org/grok-1",
+      "owner": "xai-org",
+      "name": "grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "description": "Grok open release",
+      "language": "Python",
+      "stars": "51,085",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "microsoft/agent-lightning",
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": "11,322",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "VectifyAI/PageIndex",
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "6,253",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "microsoft/Data-Science-For-Beginners",
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": "32,497",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "tobi/try",
+      "owner": "tobi",
+      "name": "try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Shell",
+      "stars": "3,211",
+      "raw": {
+        "trending_rank": 8
+      }
+    }
+  ]
+}
