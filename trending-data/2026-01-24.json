@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-01-24",
+    "generated_at": "2026-01-24T08:25:32Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "remotion-dev/remotion",
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": "28,756",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "microsoft/VibeVoice",
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "21,399",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "block/goose",
+      "owner": "block",
+      "name": "goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "27,704",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "ai-dynamo/dynamo",
+      "owner": "ai-dynamo",
+      "name": "dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": "5,941",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "browser-use/browser-use",
+      "owner": "browser-use",
+      "name": "browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": "76,495",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "github/copilot-cli",
+      "owner": "github",
+      "name": "copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "language": "Shell",
+      "stars": "7,333",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "Asabeneh/30-Days-Of-Python",
+      "owner": "Asabeneh",
+      "name": "30-Days-Of-Python",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "Python",
+      "stars": "56,434",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "anthropics/claude-code",
+      "owner": "anthropics",
+      "name": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": "60,088",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "deepseek-ai/FlashMLA",
+      "owner": "deepseek-ai",
+      "name": "FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "language": "C++",
+      "stars": "12,349",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "microsoft/Data-Science-For-Beginners",
+      "owner": "microsoft",
+      "name": "Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": "33,488",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "OpenBMB/UltraRAG",
+      "owner": "OpenBMB",
+      "name": "UltraRAG",
+      "url": "https://github.com/OpenBMB/UltraRAG",
+      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "language": "Python",
+      "stars": "3,159",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "lyogavin/airllm",
+      "owner": "lyogavin",
+      "name": "airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "8,741",
+      "raw": {
+        "trending_rank": 12
+      }
+    },
+    {
+      "rank": 13,
+      "repo": "KellerJordan/modded-nanogpt",
+      "owner": "KellerJordan",
+      "name": "modded-nanogpt",
+      "url": "https://github.com/KellerJordan/modded-nanogpt",
+      "description": "NanoGPT (124M) in 2 minutes",
+      "language": "Python",
+      "stars": "4,421",
+      "raw": {
+        "trending_rank": 13
+      }
+    }
+  ]
+}
