@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-01-26",
+    "generated_at": "2026-01-26T08:30:54Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "Blaizzy/mlx-audio",
+      "owner": "Blaizzy",
+      "name": "mlx-audio",
+      "url": "https://github.com/Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+      "language": "Python",
+      "stars": "4,694",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "VectifyAI/PageIndex",
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": "9,357",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "remotion-dev/remotion",
+      "owner": "remotion-dev",
+      "name": "remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": "31,196",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "qarmin/czkawka",
+      "owner": "qarmin",
+      "name": "czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": "28,715",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "microsoft/VibeVoice",
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "22,215",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "openai/codex",
+      "owner": "openai",
+      "name": "codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "57,607",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "supermemoryai/supermemory",
+      "owner": "supermemoryai",
+      "name": "supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": "14,846",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "Psiphon-Inc/conduit",
+      "owner": "Psiphon-Inc",
+      "name": "conduit",
+      "url": "https://github.com/Psiphon-Inc/conduit",
+      "description": "Conduit Client",
+      "language": "TypeScript",
+      "stars": "113",
+      "raw": {
+        "trending_rank": 8
+      }
+    }
+  ]
+}
