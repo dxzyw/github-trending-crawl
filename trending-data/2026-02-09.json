@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-02-09",
+    "generated_at": "2026-02-09T08:52:26Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "KeygraphHQ/shannon",
+      "owner": "KeygraphHQ",
+      "name": "shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": "14,715",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "pydantic/monty",
+      "owner": "pydantic",
+      "name": "monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "language": "Rust",
+      "stars": "3,291",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "openai/skills",
+      "owner": "openai",
+      "name": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "7,244",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "virattt/dexter",
+      "owner": "virattt",
+      "name": "dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": "13,035",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "microsoft/litebox",
+      "owner": "microsoft",
+      "name": "litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "language": "Rust",
+      "stars": "1,566",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "google/langextract",
+      "owner": "google",
+      "name": "langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": "24,984",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "obra/superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "48,145",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "OpenBMB/MiniCPM-o",
+      "owner": "OpenBMB",
+      "name": "MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "language": "Python",
+      "stars": "23,522",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "likec4/likec4",
+      "owner": "likec4",
+      "name": "likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": "2,481",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "iOfficeAI/AionUi",
+      "owner": "iOfficeAI",
+      "name": "AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "language": "TypeScript",
+      "stars": "13,448",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "home-assistant/addons",
+      "owner": "home-assistant",
+      "name": "addons",
+      "url": "https://github.com/home-assistant/addons",
+      "description": "➕ Docker add-ons for Home Assistant",
+      "language": "Shell",
+      "stars": "2,064",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "gitbutlerapp/gitbutler",
+      "owner": "gitbutlerapp",
+      "name": "gitbutler",
+      "url": "https://github.com/gitbutlerapp/gitbutler",
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+      "language": "Rust",
+      "stars": "18,478",
+      "raw": {
+        "trending_rank": 12
+      }
+    }
+  ]
+}
