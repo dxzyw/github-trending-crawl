@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-02-15",
+    "generated_at": "2026-02-15T08:31:18Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "tambo-ai/tambo",
+      "owner": "tambo-ai",
+      "name": "tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "stars": "9,855",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "SynkraAI/aios-core",
+      "owner": "SynkraAI",
+      "name": "aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "stars": "654",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "rowboatlabs/rowboat",
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": "6,298",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "minio/minio",
+      "owner": "minio",
+      "name": "minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": "60,299",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "25,183",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "alibaba/zvec",
+      "owner": "alibaba",
+      "name": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": "1,527",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "ruvnet/wifi-densepose",
+      "owner": "ruvnet",
+      "name": "wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "language": "Python",
+      "stars": "6,269",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "Zipstack/unstract",
+      "owner": "Zipstack",
+      "name": "unstract",
+      "url": "https://github.com/Zipstack/unstract",
+      "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+      "language": "Python",
+      "stars": "6,369",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "letta-ai/letta-code",
+      "owner": "letta-ai",
+      "name": "letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "description": "The memory-first coding agent",
+      "language": "TypeScript",
+      "stars": "1,285",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "ruby/ruby",
+      "owner": "ruby",
+      "name": "ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "stars": "23,397",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "cinnyapp/cinny",
+      "owner": "cinnyapp",
+      "name": "cinny",
+      "url": "https://github.com/cinnyapp/cinny",
+      "description": "Yet another matrix client",
+      "language": "TypeScript",
+      "stars": "3,069",
+      "raw": {
+        "trending_rank": 11
+      }
+    }
+  ]
+}
