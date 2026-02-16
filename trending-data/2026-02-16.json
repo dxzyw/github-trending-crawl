@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-02-16",
+    "generated_at": "2026-02-16T08:44:09Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": "19,487",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "steipete/gogcli",
+      "owner": "steipete",
+      "name": "gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+      "language": "Go",
+      "stars": "3,161",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "rowboatlabs/rowboat",
+      "owner": "rowboatlabs",
+      "name": "rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "language": "TypeScript",
+      "stars": "7,001",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "github/gh-aw",
+      "owner": "github",
+      "name": "gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "stars": "2,804",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "25,528",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "alibaba/zvec",
+      "owner": "alibaba",
+      "name": "zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": "2,641",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "openclaw/openclaw",
+      "owner": "openclaw",
+      "name": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": "198,692",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "moonshine-ai/moonshine",
+      "owner": "moonshine-ai",
+      "name": "moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+      "language": "C",
+      "stars": "3,969",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "brave/brave-browser",
+      "owner": "brave",
+      "name": "brave-browser",
+      "url": "https://github.com/brave/brave-browser",
+      "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+      "language": null,
+      "stars": "21,619",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "SynkraAI/aios-core",
+      "owner": "SynkraAI",
+      "name": "aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+      "language": "JavaScript",
+      "stars": "849",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "ruvnet/wifi-densepose",
+      "owner": "ruvnet",
+      "name": "wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+      "language": "Python",
+      "stars": "6,606",
+      "raw": {
+        "trending_rank": 11
+      }
+    }
+  ]
+}
