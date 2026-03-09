@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-03-09",
+    "generated_at": "2026-03-09T08:41:47Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "owner": "GoogleCloudPlatform",
+      "name": "generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "language": "Jupyter Notebook",
+      "stars": "14,859",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "666ghj/MiroFish",
+      "owner": "666ghj",
+      "name": "MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": "8,123",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "shadcn-ui/ui",
+      "owner": "shadcn-ui",
+      "name": "ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "language": "TypeScript",
+      "stars": "108,916",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "openclaw/openclaw",
+      "owner": "openclaw",
+      "name": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars": "285,583",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "toeverything/AFFiNE",
+      "owner": "toeverything",
+      "name": "AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars": "65,440",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "Ed1s0nZ/CyberStrikeAI",
+      "owner": "Ed1s0nZ",
+      "name": "CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "language": "Go",
+      "stars": "2,463",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "language": "TypeScript",
+      "stars": "24,255",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "openai/skills",
+      "owner": "openai",
+      "name": "skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "13,470",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "virattt/ai-hedge-fund",
+      "owner": "virattt",
+      "name": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "46,954",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "is-a-dev/register",
+      "owner": "is-a-dev",
+      "name": "register",
+      "url": "https://github.com/is-a-dev/register",
+      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "language": "JavaScript",
+      "stars": "9,900",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "teng-lin/notebooklm-py",
+      "owner": "teng-lin",
+      "name": "notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API for Google NotebookLM",
+      "language": "Python",
+      "stars": "3,901",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": "2,293",
+      "raw": {
+        "trending_rank": 12
+      }
+    }
+  ]
+}
