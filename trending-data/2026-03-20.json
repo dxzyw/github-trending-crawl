@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-03-20",
+    "generated_at": "2026-03-20T08:38:26Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "opendataloader-project/opendataloader-pdf",
+      "owner": "opendataloader-project",
+      "name": "opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars": "6,353",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "langchain-ai/open-swe",
+      "owner": "langchain-ai",
+      "name": "open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "stars": "7,291",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "obra/superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "100,275",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "jarrodwatts/claude-hud",
+      "owner": "jarrodwatts",
+      "name": "claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars": "8,916",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "unslothai/unsloth",
+      "owner": "unslothai",
+      "name": "unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "language": "Python",
+      "stars": "56,931",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "mobile-dev-inc/Maestro",
+      "owner": "mobile-dev-inc",
+      "name": "Maestro",
+      "url": "https://github.com/mobile-dev-inc/Maestro",
+      "description": "Painless E2E Automation for Mobile and Web",
+      "language": "Kotlin",
+      "stars": "12,662",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "tw93/Mole",
+      "owner": "tw93",
+      "name": "Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Deep clean and optimize your Mac.",
+      "language": "Shell",
+      "stars": "42,379",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "newton-physics/newton",
+      "owner": "newton-physics",
+      "name": "newton",
+      "url": "https://github.com/newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars": "3,308",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "louis-e/arnis",
+      "owner": "louis-e",
+      "name": "arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "stars": "11,072",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "FujiwaraChoki/MoneyPrinterV2",
+      "owner": "FujiwaraChoki",
+      "name": "MoneyPrinterV2",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "stars": "16,347",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "gsd-build/get-shit-done",
+      "owner": "gsd-build",
+      "name": "get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "language": "JavaScript",
+      "stars": "36,603",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "name": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "stars": "34,225",
+      "raw": {
+        "trending_rank": 12
+      }
+    }
+  ]
+}
