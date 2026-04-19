@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-04-19",
+    "generated_at": "2026-04-19T08:52:10Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "thunderbird/thunderbolt",
+      "owner": "thunderbird",
+      "name": "thunderbolt",
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars": "1,794",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "BasedHardware/omi",
+      "owner": "BasedHardware",
+      "name": "omi",
+      "url": "https://github.com/BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars": "10,662",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "openai/openai-agents-python",
+      "owner": "openai",
+      "name": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": "22,635",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "EvoMap/evolver",
+      "owner": "EvoMap",
+      "name": "evolver",
+      "url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars": "5,185",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "deepseek-ai/DeepGEMM",
+      "owner": "deepseek-ai",
+      "name": "DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "language": "Cuda",
+      "stars": "6,607",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "Lordog/dive-into-llms",
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": "32,214",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "aaddrick/claude-desktop-debian",
+      "owner": "aaddrick",
+      "name": "claude-desktop-debian",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "description": "Claude Desktop for Debian-based Linux distributions",
+      "language": "Shell",
+      "stars": "3,531",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "rustdesk/rustdesk",
+      "owner": "rustdesk",
+      "name": "rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": "112,229",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "owner": "SimoneAvogadro",
+      "name": "android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars": "3,320",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "tractorjuice/arc-kit",
+      "owner": "tractorjuice",
+      "name": "arc-kit",
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+      "language": "HTML",
+      "stars": "816",
+      "raw": {
+        "trending_rank": 10
+      }
+    }
+  ]
+}
