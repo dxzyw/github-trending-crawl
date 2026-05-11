@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-05-11",
+    "generated_at": "2026-05-11T11:16:21Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "bytedance/UI-TARS-desktop",
+      "owner": "bytedance",
+      "name": "UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": "32,646",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "CloakHQ/CloakBrowser",
+      "owner": "CloakHQ",
+      "name": "CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": "5,417",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "yikart/AiToEarn",
+      "owner": "yikart",
+      "name": "AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": "10,191",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "playcanvas/supersplat",
+      "owner": "playcanvas",
+      "name": "supersplat",
+      "url": "https://github.com/playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars": "7,047",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "datawhalechina/easy-vibe",
+      "owner": "datawhalechina",
+      "name": "easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": "9,586",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "decolua/9router",
+      "owner": "decolua",
+      "name": "9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": "7,783",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": "935",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "millionco/react-doctor",
+      "owner": "millionco",
+      "name": "react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": "7,623",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "Lordog/dive-into-llms",
+      "owner": "Lordog",
+      "name": "dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars": "37,114",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "owner": "AUTOMATIC1111",
+      "name": "stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "stars": "162,813",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "rasbt/LLMs-from-scratch",
+      "owner": "rasbt",
+      "name": "LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": "92,595",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "143,615",
+      "raw": {
+        "trending_rank": 12
+      }
+    },
+    {
+      "rank": 13,
+      "repo": "rohitg00/agentmemory",
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": "4,175",
+      "raw": {
+        "trending_rank": 13
+      }
+    }
+  ]
+}
