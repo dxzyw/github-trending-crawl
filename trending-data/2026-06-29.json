@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-06-29",
+    "generated_at": "2026-06-29T12:30:21Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "simplex-chat/simplex-chat",
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "stars": "15,964",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "118,271",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "cupy/cupy",
+      "owner": "cupy",
+      "name": "cupy",
+      "url": "https://github.com/cupy/cupy",
+      "description": "NumPy & SciPy for GPU",
+      "language": "Python",
+      "stars": "11,694",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "altic-dev/FluidVoice",
+      "owner": "altic-dev",
+      "name": "FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "language": "Swift",
+      "stars": "4,101",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "soxoj/maigret",
+      "owner": "soxoj",
+      "name": "maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": "34,114",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "commaai/openpilot",
+      "owner": "commaai",
+      "name": "openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": "62,654",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "ripienaar/free-for-dev",
+      "owner": "ripienaar",
+      "name": "free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": "126,378",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "logto-io/logto",
+      "owner": "logto-io",
+      "name": "logto",
+      "url": "https://github.com/logto-io/logto",
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "stars": "12,342",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "xbtlin/ai-berkshire",
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": "6,319",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "browser-use/video-use",
+      "owner": "browser-use",
+      "name": "video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": "11,597",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "Unclecheng-li/VulnClaw",
+      "owner": "Unclecheng-li",
+      "name": "VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "language": "Python",
+      "stars": "993",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "14,803",
+      "raw": {
+        "trending_rank": 12
+      }
+    },
+    {
+      "rank": 13,
+      "repo": "refactoringhq/tolaria",
+      "owner": "refactoringhq",
+      "name": "tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": "17,320",
+      "raw": {
+        "trending_rank": 13
+      }
+    },
+    {
+      "rank": 14,
+      "repo": "veracrypt/VeraCrypt",
+      "owner": "veracrypt",
+      "name": "VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "language": "C",
+      "stars": "10,329",
+      "raw": {
+        "trending_rank": 14
+      }
+    }
+  ]
+}
