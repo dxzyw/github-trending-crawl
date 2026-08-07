@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-08-07",
+    "generated_at": "2026-08-07T08:56:22Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": "16,993",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "83,297",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "cloudflare/computer",
+      "owner": "cloudflare",
+      "name": "computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": "5,121",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "mattpocock/skills",
+      "owner": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "207,862",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "goauthentik/authentik",
+      "owner": "goauthentik",
+      "name": "authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": "23,293",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "huangruiteng/loopx",
+      "owner": "huangruiteng",
+      "name": "loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars": "3,155",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "google/guava",
+      "owner": "google",
+      "name": "guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": "51,689",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "TapXWorld/ChinaTextbook",
+      "owner": "TapXWorld",
+      "name": "ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "77,509",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "Significant-Gravitas/AutoGPT",
+      "owner": "Significant-Gravitas",
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": "186,150",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "tirth8205/code-review-graph",
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": "29,224",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "esengine/DeepSeek-Reasonix",
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": "32,717",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "obra/superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "268,379",
+      "raw": {
+        "trending_rank": 12
+      }
+    },
+    {
+      "rank": 13,
+      "repo": "firecrawl/pdf-inspector",
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": "12,777",
+      "raw": {
+        "trending_rank": 13
+      }
+    }
+  ]
+}
