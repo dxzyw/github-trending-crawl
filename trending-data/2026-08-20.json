@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "source": "github-trending",
+    "since": "daily",
+    "date": "2026-08-20",
+    "generated_at": "2026-08-20T08:34:34Z"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "name": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": "111,950",
+      "raw": {
+        "trending_rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "repo": "volcengine/OpenViking",
+      "owner": "volcengine",
+      "name": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": "30,622",
+      "raw": {
+        "trending_rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "repo": "chaitanyagiri/munder-difflin",
+      "owner": "chaitanyagiri",
+      "name": "munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": "2,870",
+      "raw": {
+        "trending_rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "30,107",
+      "raw": {
+        "trending_rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "repo": "akitaonrails/ai-memory",
+      "owner": "akitaonrails",
+      "name": "ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "3,310",
+      "raw": {
+        "trending_rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "repo": "nautechsystems/nautilus_trader",
+      "owner": "nautechsystems",
+      "name": "nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": "26,579",
+      "raw": {
+        "trending_rank": 6
+      }
+    },
+    {
+      "rank": 7,
+      "repo": "mattpocock/skills",
+      "owner": "mattpocock",
+      "name": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "224,453",
+      "raw": {
+        "trending_rank": 7
+      }
+    },
+    {
+      "rank": 8,
+      "repo": "obra/superpowers",
+      "owner": "obra",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "274,535",
+      "raw": {
+        "trending_rank": 8
+      }
+    },
+    {
+      "rank": 9,
+      "repo": "jundot/omlx",
+      "owner": "jundot",
+      "name": "omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": "19,950",
+      "raw": {
+        "trending_rank": 9
+      }
+    },
+    {
+      "rank": 10,
+      "repo": "santifer/career-ops",
+      "owner": "santifer",
+      "name": "career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": "66,082",
+      "raw": {
+        "trending_rank": 10
+      }
+    },
+    {
+      "rank": 11,
+      "repo": "immich-app/immich",
+      "owner": "immich-app",
+      "name": "immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": "112,058",
+      "raw": {
+        "trending_rank": 11
+      }
+    },
+    {
+      "rank": 12,
+      "repo": "amadeusprotocol/node",
+      "owner": "amadeusprotocol",
+      "name": "node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "description": "",
+      "language": "Rust",
+      "stars": "4,858",
+      "raw": {
+        "trending_rank": 12
+      }
+    },
+    {
+      "rank": 13,
+      "repo": "marceloprates/prettymaps",
+      "owner": "marceloprates",
+      "name": "prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Python",
+      "stars": "13,378",
+      "raw": {
+        "trending_rank": 13
+      }
+    },
+    {
+      "rank": 14,
+      "repo": "genlayerlabs/genlayer-project-boilerplate",
+      "owner": "genlayerlabs",
+      "name": "genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": "16,268",
+      "raw": {
+        "trending_rank": 14
+      }
+    }
+  ]
+}
